@@ -20,3 +20,6 @@ bin/
 .vscode/
 .nb-conf
 *.swp
+
+*.mv.db
+*.trace.db
