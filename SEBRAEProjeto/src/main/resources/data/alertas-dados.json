@@ -1,0 +1,67 @@
+[
+  {
+    "tiposDeAlertas": [
+      {
+        "tipo": "Alertas Ativos",
+        "quantidade": 18,
+        "comparacao": "%8 vs período anterior"
+      },
+      {
+        "tipo": "Alertas Críticos",
+        "quantidade": 4,
+        "comparacao": "%33 vs período anterior"
+      },
+      {
+        "tipo": "Em Investigação",
+        "quantidade": 4,
+        "comparacao": "%33 vs período anterior"
+      },
+      {
+        "tipo": "Resolvidos essa semana",
+        "quantidade": 4,
+        "comparacao": "%33 vs período anterior"
+      }
+    ]
+  },
+  {
+    "tendencia": [
+      { "data": "02/05", "total": 12 },
+      { "data": "05/05", "total": 18 },
+      { "data": "08/05", "total": 15 },
+      { "data": "11/05", "total": 22 },
+      { "data": "14/05", "total": 19 },
+      { "data": "17/05", "total": 28 },
+      { "data": "20/05", "total": 35 },
+      { "data": "23/05", "total": 25 },
+      { "data": "26/05", "total": 18 }
+    ]
+  },
+  {
+    "listaDeAlertas": [
+      {
+        "tipo": "QUEDA",
+        "canal": "Site",
+        "clientesAfetados": 245,
+        "impactoPercentual": -42,
+        "detectadoEm": "há 3 horas",
+        "descricao": "Queda de acesso"
+      },
+      {
+        "tipo": "QUEDA",
+        "canal": "WhatsApp",
+        "clientesAfetados": 163,
+        "impactoPercentual": -18,
+        "detectadoEm": "Ontem 09:25",
+        "descricao": "Queda moderada de engajamento"
+      },
+      {
+        "tipo": "QUEDA",
+        "canal": "Email",
+        "clientesAfetados": 86,
+        "impactoPercentual": -9,
+        "detectadoEm": "28/05/2026",
+        "descricao": "Queda moderada de engajamento"
+      }
+    ]
+  }
+]
